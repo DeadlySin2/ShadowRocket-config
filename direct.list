@@ -8,6 +8,7 @@ IP-CIDR,192.168.0.0/16
 DOMAIN-SUFFIX,go.unicredit.ru
 DOMAIN-SUFFIX,gosuslugi.ru
 DOMAIN-SUFFIX,parking.mos.ru
+DOMAIN-SUFFIX,lk.parking.mos.ru
 DOMAIN-SUFFIX,mos.ru
 DOMAIN-SUFFIX,imb.ru
 DOMAIN-SUFFIX,imbank.ru
